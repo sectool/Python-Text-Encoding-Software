@@ -2,7 +2,7 @@
 
 Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır.
 
-Girilen metinin;
+# Şifreleme Özellikleri
 
 (1) MD5
 
