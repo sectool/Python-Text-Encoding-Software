@@ -1,6 +1,6 @@
 # Python - Text Encoding Software
 
-Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır.
+Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır. Metin şifreleme yazılımıdır.
 
 # Şifreleme Özellikleri
 
