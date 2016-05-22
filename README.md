@@ -1,8 +1,9 @@
 # Python - Text Encoding Software
 
-Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır. Metin şifreleme yazılımıdır.
+Linux işletim sistemleri için geliştirilmiş ve python dili ile
+yazılmışdır. Metin şifreleme yazılımıdır.
 
-# Şifreleme Özellikleri
+# Şifreleme Özellikleri :
 
 (1) MD5
 
@@ -17,3 +18,9 @@ Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışd�
 (6) SHA-512
 
 Formatlarında şifrelenmesini sağlayan bir kriptolama yazılımıdır.
+
+Not : Hashlib modülün kurulu olması gerekmektedir.
+
+Video : https://www.youtube.com/watch?v=9UkEa_O9GBA
+
+Kaynak Kod : https://github.com/ismailtasdelen/Python-Text-Encoding-Software
