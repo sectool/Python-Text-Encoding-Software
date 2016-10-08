@@ -5,27 +5,27 @@ import hashlib
 
 def md5():
 	parola = hashlib.md5(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 def sha1():
 	parola = hashlib.sha1(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 def sha224():
 	parola = hashlib.sha224(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 def sha256():
 	parola = hashlib.sha256(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 def sha384():
 	parola = hashlib.sha384(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 def sha512():
 	parola = hashlib.sha512(metin.encode()).hexdigest()
-	print "Şifrenen metin : " + parola
+	print "Şifrelen metin : " + parola
 
 
 textencoding_ico = """
